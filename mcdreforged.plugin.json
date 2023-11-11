@@ -4,7 +4,7 @@
 	"name": "Ipv6 Reminder",
 	"description": "提醒玩家使用ipv6",
 	"author": "ALAPN",
-	"link": "",
+	"link": "https://github.com/ALAPN/Ipv6Reminder",
 	"dependencies": {
 		"mcdreforged": ">=2.6.0"
 	}
