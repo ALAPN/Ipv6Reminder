@@ -1,0 +1,11 @@
+ {
+	"id": "ipv6_reminder",
+	"version": "1.0.0",
+	"name": "Ipv6 Reminder",
+	"description": "提醒玩家使用ipv6",
+	"author": "ALAPN",
+	"link": "",
+	"dependencies": {
+		"mcdreforged": ">=2.6.0"
+	}
+}
