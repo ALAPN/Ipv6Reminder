@@ -4,6 +4,7 @@ from time import sleep
 remind_message='''
 §9§l检测到您的网络ipv4访问优先
 §9§l如果为家庭网络请检查路由器/光猫是否开启ipv6模式
+§9§l并使用本服的ipv6地址连接服务器
 '''
 
 def on_player_joined(server: PluginServerInterface, player: str, info: Info):
